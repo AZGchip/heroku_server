@@ -1,0 +1,21 @@
+{
+  "name": "googlebooks-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "servertwo.js",
+  "scripts": {
+    "start": "node servertwo.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:AZGchip/heroku_server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "^5.0.0",
+    "if-env": "^1.0.4",
+    "websocket": "^1.0.31"
+  }
+}
